@@ -1,0 +1,6 @@
+1.  load a usb drive with Run_First.bat
+2.  launch Run_First.bat as an administrator on the Windows machine
+3.  this creates 2 files and stores them on the flash drives
+4.  take the flash drive to a Debian linux machine and launch Run_Second.sh
+5.  Fill out the questions to generate the password file
+6.  launch Run_third.sh to locate the password
